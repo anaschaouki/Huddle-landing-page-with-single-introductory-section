@@ -4,8 +4,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![](./images/Huddle-landing-page-with-single-introductory-section.png.png)
-![](./images/Huddle-landing-page-with-single-introductory-section-mobile.png.png)
+![](./images/Huddle-landing-page-with-single-introductory-section.png)
+![](./images/Huddle-landing-page-with-single-introductory-section-mobile.png)
 
 ### Links
 
