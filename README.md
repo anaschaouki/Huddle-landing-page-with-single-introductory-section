@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Links
 
 - Solution URL: [Huddle landing page with single introductory section solution](https://your-solution-url.com)
-- Live Site URL: [Huddle landing page with single introductory section site](https://chimerical-horse-d97a60.netlify.app/)
+- Live Site URL: [Huddle landing page with single introductory section site](https://lovely-flan-42307d.netlify.app/)
 
 ### Built with
 
