@@ -3,7 +3,7 @@
 /* body font */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 /* colors */
-:root{
+*{
     --Violet: hsl(257, 40%, 49%);
     --Soft-Magenta: hsl(300, 69%, 71%);
 }
