@@ -1,11 +1,10 @@
-/* heading font */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-/* body font */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 /* colors */
 *{
-    --Violet: hsl(257, 40%, 49%);
-    --Soft-Magenta: hsl(300, 69%, 71%);
+    --Violet : hsl(257, 40%, 49%);
+    --Soft-Magenta : hsl(300, 69%, 71%);
 }
 *{
     margin: 0;
