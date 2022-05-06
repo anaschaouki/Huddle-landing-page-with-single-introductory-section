@@ -9,7 +9,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Huddle landing page with single introductory section solution](https://your-solution-url.com)
+- Solution URL: [Huddle landing page with single introductory section solution](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-single-introductory-section-ByDKiqfLc)
 - Live Site URL: [Huddle landing page with single introductory section site](https://lovely-flan-42307d.netlify.app/)
 
 ### Built with
